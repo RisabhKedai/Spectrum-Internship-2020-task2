@@ -35,6 +35,9 @@ and my personal favourite,
 IN THIS GITHUB REPO YOU WILL FIND A FOLDER WHERE THERE'S A FOLDER CALLED MARK_ENTRY OPEN IT AND RUN APP.
 
 
+Or else just download all the .py files and save it in the same folder as the data_files then run app.py
+
+
 
 
 Screen 1: The welcome screen. Not much function of it but just 5 seconds of dazzle in your eyes.
